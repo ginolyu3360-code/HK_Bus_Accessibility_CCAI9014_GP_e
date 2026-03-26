@@ -10,4 +10,6 @@ This project evaluates the real-world accessibility of bus stops in Hong Kong us
 - **Regional Analysis**: Segmented processing for Kowloon, HK Island, and New Territories.
 
 ## Results
-(Insert your HK_Bus_Full_Analysis.png here)
+not yet
+
+AI for text gen and beautify format
